@@ -5,9 +5,9 @@ Demo
 
 ## Whoa, what is this repo?
 <img src="./media/abilify-nobg.png" align="left" width="25%" />
-Butrin is a color scheme and configuration that I use for multiple terminals, including Windows Terminal, Alacritty, Kitty, etc. The color scheme is directly based off of my original character Abilify's color scheme; No association with big pharma!
+Butrin is a color scheme and configuration that I use for multiple terminals, including Windows Terminal, Alacritty, Kitty, etc. The color scheme is directly based off of my original character, Abilify's color scheme; No association with big pharma!
 
-I aim to provide a consistend and pleasant look across different terminal emulators and platorms. It also offers some features to enhance the productivity and usability of the terminal, such as using a tiling window manager keyboard layout (Windows Terminal Only). For a full list of keybindings, read below.
+I aim to provide a consistent and pleasant look across different terminal emulators and platorms. It also offers some features to enhance the productivity and usability of the terminal, such as using a tiling window manager keyboard layout (Windows Terminal Only). For a full list of keybindings, read below.
 <br>
 
 ## Dependencies
@@ -19,10 +19,10 @@ As of right now, the [DroidSans Mono nerd font](https://github.com/ryanoasis/ner
 
 Method 1 (easiest & recommended):
 1. Open Windows Terminal
-2. dropdown menu next to the tabs, select settings
-3. "Open Json File"
-4. the contents with the settings.json file in this repo
-5. if you want just the theme, or just the keybindings, you can copy & paste the contents from theme-only.json / keybindings-only.json into your already existing config
+2. Dropdown menu next to the tabs, select settings
+3. Click "Open Json File" on the lower left-hand corner
+4. Paste the contents with the settings.json file in this repo
+5. If you would like *only* the theme, or *only* the keybindings, you can copy & paste the contents from theme-only.json / keybindings-only.json into your already existing config
 6. reload windows terminal
 
 ## Method 2:
